@@ -27,6 +27,7 @@ const OBLOQ_ERROR_TYPE_IS_WIFI_CONNECT_FAILURE = -2
 const OBLOQ_STR_TYPE_IS_NONE = ""
 const OBLOQ_BOOL_TYPE_IS_TRUE = true
 const OBLOQ_BOOL_TYPE_IS_FALSE = false
+
 //topics name
 enum TOPIC {
     topic_1 = 1,
