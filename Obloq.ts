@@ -417,17 +417,17 @@ namespace Obloq {
         let len = <number>ret.length() - 1;
         return ret.substr(0, len);
     }
-
+    /*
     //% weight=80
     //% blockId=Obloq_Weather_getRainfall
     //% block="get rainfall"
     export function get_rainfall(): string {
         let city = get_city();
-        let ret = get_request(city, "weather");
+        let ret = get_request(city, "rainfall");
         let len = <number>ret.length() - 1;
         ret = ret.substr(0, len);
         return ret;
-    }
+    }*/
 
     //% weight=80
     //% blockId=Obloq_Weather_getTemperature

@@ -23,21 +23,16 @@ Board firmware upgrade switch, easy to upgrade the firmware.
 
 ## Blocks
 
-### MQTT
-![image](https://github.com/DFRobot/pxt-Obloq/blob/master/image/MQTT.png)
+### block
+![image](https://github.com/wxzed/obloq-weather/blob/master/image/block.png)
 
 
 ## Example
 
-### MQTT
-![image](https://github.com/DFRobot/pxt-Obloq/blob/master/image/MQTTDemo.png)
+### test
+![image](https://github.com/wxzed/obloq-weather/blob/master/image/test.png)
 
-get code: ```https://github.com/DFRobot/pxt-Obloq/blob/master/mqtttest.ts```
-
-Multiple services：
-![image](https://github.com/DFRobot/pxt-Obloq/blob/master/image/MQTTMoreDemo.png)
-
-get code: ```https://github.com/DFRobot/pxt-Obloq/blob/master/mqttMoretest.ts```
+get code: ```https://github.com/wxzed/obloq-weather/blob/master/test.ts```
 
 Get the iot of things platform: [East IoT](http://iot.dfrobot.com.cn/).
 
