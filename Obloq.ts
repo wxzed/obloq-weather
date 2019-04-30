@@ -82,7 +82,7 @@ enum LOCATION {
  *Obloq implementation method.
  */
 //% weight=10 color=#008B00 icon="\uf1eb" block="Obloq-weather"
-namespace Obloq-Weather {
+namespace Obloq_Weather{
 
     //serial
     let OBLOQ_SERIAL_INIT = OBLOQ_BOOL_TYPE_IS_FALSE
