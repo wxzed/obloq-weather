@@ -1,7 +1,7 @@
 {
-    "name": "Obloq",
-    "version": "1.0.3",
-    "description": "Add Wi-Fi connectivity to micro:bit and start your IoT project in 5 minutes!",
+    "name": "Obloq-weather",
+    "version": "1.0.0",
+    "description": "Add a Wi-Fi connection to micro:bit and start the project to get weather information in 5 minutes!",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -11,14 +11,11 @@
         "README.md",
         "Obloq.ts",
         "Obloq.cpp",
-        "_locales/zh-cn/Obloq-strings.json",
-        "_locales/zh-tw/Obloq-strings.json"
+        "_locales/zh-cn/Obloq-strings.json"
     ],
     "testFiles": [
-        "test.ts",
-        "mqttMoretest.ts",
-        "httpTest.ts"
+        "test.ts"
     ],
     "public": true,
-    "installedVersion": "workspace:dee399dd-48f4-4833-bae7-879f736bfe46"
+    "installedVersion": "workspace:a1e74fb3-56c4-48f2-7ea3-d4d9e3e2ecfc"
 }
