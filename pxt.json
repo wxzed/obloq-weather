@@ -1,6 +1,6 @@
 {
     "name": "ObloqWeather",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Add a Wi-Fi connection to micro:bit and start the project to get weather information in 5 minutes!",
     "license": "MIT",
     "dependencies": {
