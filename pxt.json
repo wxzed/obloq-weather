@@ -11,7 +11,7 @@
         "README.md",
         "ObloqWeather.ts",
         "ObloqWeather.cpp",
-        "_locales/zh-cn/Obloq-strings.json"
+        "_locales/zh-cn/ObloqWeather-strings.json"
     ],
     "testFiles": [
         "test.ts"
