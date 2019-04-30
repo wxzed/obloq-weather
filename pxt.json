@@ -9,8 +9,8 @@
     },
     "files": [
         "README.md",
-        "Obloq.ts",
-        "Obloq.cpp",
+        "ObloqWeather.ts",
+        "ObloqWeather.cpp",
         "_locales/zh-cn/Obloq-strings.json"
     ],
     "testFiles": [
