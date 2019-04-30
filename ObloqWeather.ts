@@ -83,7 +83,7 @@ enum LOCATION {
  *Obloq implementation method.
  */
 //% weight=10 color=#008B00 icon="\uf1eb" block="Obloq-weather"
-namespace ObloqWeather{
+namespace ObloqWeather {
 
     //serial
     let OBLOQ_SERIAL_INIT = OBLOQ_BOOL_TYPE_IS_FALSE
@@ -135,32 +135,32 @@ namespace ObloqWeather{
     }
 
 
-    //% advanced=true shim=Obloq::obloqSetTxBufferSize
+    //% advanced=true shim=ObloqWeather::obloqSetTxBufferSize
     function obloqSetTxBufferSize(size: number): void {
         return
     }
 
-    //% advanced=true shim=Obloq::obloqSetRxBufferSize
+    //% advanced=true shim=ObloqWeather::obloqSetRxBufferSize
     function obloqSetRxBufferSize(size: number): void {
         return
     }
 
-    //% advanced=true shim=Obloq::obloqEventOn
+    //% advanced=true shim=ObloqWeather::obloqEventOn
     function obloqEventOn(): void {
         return
     }
 
-    //% advanced=true shim=Obloq::obloqClearRxBuffer
+    //% advanced=true shim=ObloqWeather::obloqClearRxBuffer
     function obloqClearRxBuffer(): void {
         return
     }
 
-    //% advanced=true shim=Obloq::obloqClearTxBuffer
+    //% advanced=true shim=ObloqWeather::obloqClearTxBuffer
     function obloqClearTxBuffer(): void {
         return
     }
 
-    //% advanced=true shim=Obloq::obloqforevers
+    //% advanced=true shim=ObloqWeather::obloqforevers
     function obloqforevers(a: Action): void {
         return
     }
